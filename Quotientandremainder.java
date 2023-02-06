@@ -3,7 +3,7 @@ package Com.Basic_Core_Programmes;
 import java.util.Scanner;
 
 public class Quotientandremainder {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         // This statement will capture the user input
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the number");

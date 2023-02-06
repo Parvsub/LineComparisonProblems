@@ -3,7 +3,7 @@ package Com.Basic_Core_Programmes;
 import java.util.Scanner;
 
 public class Leap_Year {
-    public static void main(String[] args) {
+      public static void main(String[] args) {
         System.out.println("Enter the number:");
         Scanner scan = new Scanner(System.in);   // This statement will capture the user input
         int year = scan.nextInt();               //Captured input would be stored in inputValue

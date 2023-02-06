@@ -3,7 +3,7 @@ package Com.Basic_Core_Programmes;
 import java.util.Scanner;
 
 public class Largestamongthreenumbers {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         int first;
         int second;
         int third;

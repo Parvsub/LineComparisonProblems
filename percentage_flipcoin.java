@@ -3,7 +3,7 @@ package Com.Basic_Core_Programmes;
 import java.util.Scanner;
 
 public class percentage_flipcoin {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         int heads = 0;
         int tails = 0;
         int count = 1;

@@ -3,7 +3,7 @@ package Com.Basic_Core_Programmes;
 import java.util.Scanner;
 
 public class PowersofTwo {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         int power, sum = 1;
         Scanner scan = new Scanner(System.in);    // This statement will capture the user input
         System.out.println("Enter the power");

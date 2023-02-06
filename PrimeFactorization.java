@@ -3,7 +3,7 @@ package Com.Basic_Core_Programmes;
 import java.util.Scanner;
 
 public class PrimeFactorization {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);  // This statement will capture the user input
         System.out.println("Enter the number");
         int number = scan.nextInt();            //Captured input would be stored in inputValue
